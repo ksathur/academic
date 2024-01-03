@@ -263,7 +263,7 @@ h6 {
 }
 
 #hero .adjuster {
-  transform: translate(0px, 300px); /* Moves left by 200px and down by 300px */
+  transform: translate(-5px, 300px); /* Moves left by 200px and down by 300px */
 }
 
 
