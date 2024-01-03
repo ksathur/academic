@@ -262,8 +262,8 @@ h6 {
   min-width: 300px;
 }
 
-#hero .adjust {
-  transform: translate(-200px, 300px); /* Moves left by 200px and down by 300px */
+#hero .adjuster {
+  transform: translate(0px, 300px); /* Moves left by 200px and down by 300px */
 }
 
 
