@@ -262,9 +262,10 @@ h6 {
   min-width: 300px;
 }
 
-#hero .slightly-left {
-  transform: translateX(-200px); /* Adjust the value as needed */
+#hero .adjust {
+  transform: translate(-200px, 300px); /* Moves left by 200px and down by 300px */
 }
+
 
 #hero h1 {
   margin: 0 0 10px 0;
